@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="weatherTweaks">
+    <output-path>$PROJECT_DIR$/out/artifacts/weatherTweaks</output-path>
+    <root id="archive" name="weatherTweaks.jar">
+      <element id="module-output" name="weatherTweaks" />
+    </root>
+  </artifact>
+</component>
